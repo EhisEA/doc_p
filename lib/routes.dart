@@ -1,0 +1,9 @@
+const String CreateReportViewRoute = "CreateReportViewRoute";
+const String ReportViewRoute = "ReportViewRoute";
+const String LoginViewRoute = "LoginViewRoute";
+const String SignUpViewRoute = "SignUpViewRoute";
+const String PatientHomeViewRoute = "PatientHomeViewRoute";
+const String AdminHomeViewRoute = "AdminHomeViewRoute";
+const String CreateDoctorViewRoute = "CreateDoctorViewRoute";
+// const String CreateReportViewRoute = "CreateReportViewRoute";
+// const String CreateReportViewRoute = "CreateReportViewRoute";

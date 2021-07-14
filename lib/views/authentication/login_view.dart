@@ -92,7 +92,7 @@ class LoginView extends StatelessWidget {
                                     ),
                                     validator: (value) {
                                       if (value.isEmpty) {
-                                        return "password cannot be empty";
+                                        return "password cannot be empty ";
                                       }
                                       return null;
                                     },
